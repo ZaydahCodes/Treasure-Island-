@@ -34,7 +34,7 @@ if choice1 == "left" :
     elif choice3 == "yellow": 
       print("You won")
     elif choice3 == "blue":
-      print("You've been eaten by beasts \n Game Over")
+      print("You've been eaten by beasts \n Game Over") ## noqa
     else:
       print("Game Over")
   else:
